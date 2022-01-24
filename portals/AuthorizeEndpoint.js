@@ -2,6 +2,7 @@
     Portals - Implicit Grant Sample
     
     Authorize Endpoint
+    
 
     Description:
 		* Authorize Endpoint returns the ID token as a fragment in the Redirected URL.
